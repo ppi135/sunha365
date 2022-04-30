@@ -9,7 +9,6 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
 ![https://github.com/sunha365](https://github.com/sunha365/sunha365/blob/main/github-metrics.svg)
 
 ## Skill

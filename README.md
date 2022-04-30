@@ -6,7 +6,7 @@
 > 데이터를 분석하고 이를 통해 일정한 패턴을 찾고 문제를 해결하는 일 등에 관심을 가지고 있습니다. 그래서 데이터 분석에 대해 꾸준히 공부해서 데이터 분석가가 되기를 희망합니다. 
 
 - [박선하](https://github.com/sunha365) - 데이터 분석가 지망
-![https://github.com/sunha365](https://github.com/sunha365/sunha365/raw/main/github-metrics-serithemage.svg)
+![https://github.com/sunha365](https://github.com/sunha365/sunha365/raw/main/github-metrics.svg)
 
 ## Skill
 **Tech-한 번 이상 다루어 본 기술들 

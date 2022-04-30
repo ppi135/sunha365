@@ -7,7 +7,8 @@
 
 
 - [박선하](https://github.com/sunha365) - 데이터 분석가 지망  
-![https://github.com/sunha365](https://github.com/sunha365/sunha365/raw/main/github-metrics-serithemage.svg)
+![https://github.com/sunha365](https://github.com/sunha365/sunha365/blob/main/github-metrics.svg)
+
 
 ## Skill
 **Tech-한 번 이상 다루어 본 기술들 

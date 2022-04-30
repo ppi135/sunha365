@@ -6,6 +6,8 @@
 > 데이터를 분석하고 이를 통해 일정한 패턴을 찾고 문제를 해결하는 일 등에 관심을 가지고 있습니다. 그래서 데이터 분석에 대해 꾸준히 공부해서 데이터 분석가가 되기를 희망합니다. 
 
 ![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 ## Skill
 **Tech-한 번 이상 다루어 본 기술들 

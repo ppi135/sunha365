@@ -10,6 +10,7 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
+![https://github.com/sunha365](https://github.com/sunha365/sunha365/blob/main/github-metrics.svg)
 
 ## Skill
 **Tech-한 번 이상 다루어 본 기술들 
